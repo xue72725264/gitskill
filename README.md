@@ -1,2 +1,2 @@
 # gitskill
-/usr/bin/bash: q: command not found.abca`
+/usr/bin/bash: q: command not found1
